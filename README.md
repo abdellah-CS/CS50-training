@@ -1,2 +1,3 @@
 # CS50-training
-My first repository
+this is My first repository
+These codes are about solving problems from the CS50 course!
