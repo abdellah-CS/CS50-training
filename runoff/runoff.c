@@ -182,3 +182,4 @@ void eliminate(int min)
     // TODO
     return;
 }
+   //I didn't complete the code yet
